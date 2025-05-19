@@ -11,7 +11,7 @@ font-size: 16px;
 padding:16px 32px;
 width:fit-content;
 cursor: pointer;
-border-radius:30px;
+border-radius:31px;
 box-shadow: ${ (props) => props.theme === 'primary' ? '0px 0px 5px 5px rgba(0, 255, 255, 0.6)' :'none'};
 
 
