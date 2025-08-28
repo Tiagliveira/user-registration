@@ -26,6 +26,7 @@ Os dados cadastrados não são armazenados permanentemente — eles existem apen
   - Nome
   - Idade
   - E-mail
+- Geração automática de avatar aleatório via API externa
 - Listagem de usuários cadastrados (temporariamente)
 - Interface simples e responsiva
 
