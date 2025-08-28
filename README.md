@@ -16,7 +16,6 @@ Os dados cadastrados não são armazenados permanentemente — eles existem apen
 - [Vite](https://vitejs.dev/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Node.js](https://nodejs,org/)
 
 
